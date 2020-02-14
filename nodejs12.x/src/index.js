@@ -1,4 +1,4 @@
-function handler(event) {
+async function handler(event) {
   return event;
 }
 
