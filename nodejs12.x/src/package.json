@@ -9,6 +9,8 @@
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
-    "jest": "^24.1.0"
-  }
+    "jest": "^24.1.0",
+    "dotenv": "^8.2.0"
+  },
+  "dependencies": {}
 }
