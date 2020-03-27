@@ -1,5 +1,3 @@
-async function handler(event) {
+module.exports.handler = async event => {
   return event;
-}
-
-module.exports.handler = handler;
+};
