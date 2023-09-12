@@ -1,0 +1,20 @@
+{
+  "name": "nodejs18.x",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "scripts": {
+    "test": "jest --setupFiles dotenv/config"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "jest": "^24.1.0",
+    "dotenv": "^8.2.0"
+  },
+  "dependencies": {},
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
